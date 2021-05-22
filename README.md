@@ -16,9 +16,9 @@
    - Xcodeをインストール
    - Xcodeを起動 -> メニュー -> preference -> Download -> Command Line Toolsを選択・インストール
  - Visual Studio CodeでC・C++用の拡張機能(検索して一番上にきたもの)をインストール
- - TerminalまたはVisual Studio Code上のTerminalで gcc -o program helloworld.c を実行して実行ファイルを作成
+ - TerminalまたはVisual Studio Code上のTerminalで gcc -o program ticket_vending.c を実行して実行ファイルを作成
  - 相対パス ./program を入力して実行
 
 
-## 氏名
-石黒 大地
+## Author
+Daichi Ishiguro
